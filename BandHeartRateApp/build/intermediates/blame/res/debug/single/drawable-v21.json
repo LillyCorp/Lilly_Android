@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/jireh/AndroidStudioProjects/MicrosoftBandSDKandSamplesforAndroid/BandHeartRateApp/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/jireh/.android/build-cache/fdb0f250c5ca7c294a2fd860d0762dd9a8bb6b42/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/jireh/AndroidStudioProjects/MicrosoftBandSDKandSamplesforAndroid/BandHeartRateApp/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/jireh/.android/build-cache/8d32ab529e9b74bbee7df3610f1dc1c54ae2ae72/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/jireh/AndroidStudioProjects/MicrosoftBandSDKandSamplesforAndroid/BandHeartRateApp/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/jireh/.android/build-cache/8d32ab529e9b74bbee7df3610f1dc1c54ae2ae72/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/jireh/AndroidStudioProjects/MicrosoftBandSDKandSamplesforAndroid/BandHeartRateApp/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/jireh/.android/build-cache/fdb0f250c5ca7c294a2fd860d0762dd9a8bb6b42/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/jireh/AndroidStudioProjects/MicrosoftBandSDKandSamplesforAndroid/BandHeartRateApp/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/jireh/.android/build-cache/fdb0f250c5ca7c294a2fd860d0762dd9a8bb6b42/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/jireh/AndroidStudioProjects/MicrosoftBandSDKandSamplesforAndroid/BandHeartRateApp/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/jireh/.android/build-cache/8d32ab529e9b74bbee7df3610f1dc1c54ae2ae72/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/jireh/AndroidStudioProjects/MicrosoftBandSDKandSamplesforAndroid/BandHeartRateApp/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/jireh/.android/build-cache/fdb0f250c5ca7c294a2fd860d0762dd9a8bb6b42/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/jireh/AndroidStudioProjects/MicrosoftBandSDKandSamplesforAndroid/BandHeartRateApp/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/jireh/.android/build-cache/8d32ab529e9b74bbee7df3610f1dc1c54ae2ae72/output/res/drawable-v21/avd_hide_password.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Sun May 07 16:38:59 IST 2017
+base.0=/home/jireh/AndroidStudioProjects/MicrosoftBandSDKandSamplesforAndroid/BandHeartRateApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_52474a8f2c3509c33622c9946fc4f099aeed56f5
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/jireh/AndroidStudioProjects/MicrosoftBandSDKandSamplesforAndroid/BandHeartRateApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d05154ff8a53a586457bd6b176efb5479ac1d1aa/classes.dex
+base.1=/home/jireh/AndroidStudioProjects/MicrosoftBandSDKandSamplesforAndroid/BandHeartRateApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d05154ff8a53a586457bd6b176efb5479ac1d1aa
+file.0=/home/jireh/AndroidStudioProjects/MicrosoftBandSDKandSamplesforAndroid/BandHeartRateApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_52474a8f2c3509c33622c9946fc4f099aeed56f5/classes.dex

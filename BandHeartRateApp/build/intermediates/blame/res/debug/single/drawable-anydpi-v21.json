@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/jireh/AndroidStudioProjects/MicrosoftBandSDKandSamplesforAndroid/BandHeartRateApp/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/jireh/.android/build-cache/8d32ab529e9b74bbee7df3610f1dc1c54ae2ae72/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/jireh/AndroidStudioProjects/MicrosoftBandSDKandSamplesforAndroid/BandHeartRateApp/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/jireh/.android/build-cache/8d32ab529e9b74bbee7df3610f1dc1c54ae2ae72/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    }
+]
