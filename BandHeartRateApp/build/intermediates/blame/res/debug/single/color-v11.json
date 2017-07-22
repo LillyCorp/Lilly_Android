@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/jireh/AndroidStudioProjects/MicrosoftBandSDKandSamplesforAndroid/BandHeartRateApp/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/home/jireh/.android/build-cache/fdb0f250c5ca7c294a2fd860d0762dd9a8bb6b42/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+        "merged": "/home/chris/Desktop/Lilly_Android/BandHeartRateApp/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/chris/.android/build-cache/84f85ecec57055ca2dfd11357e861e72bed8f6ec/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "/home/jireh/AndroidStudioProjects/MicrosoftBandSDKandSamplesforAndroid/BandHeartRateApp/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/home/jireh/.android/build-cache/fdb0f250c5ca7c294a2fd860d0762dd9a8bb6b42/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "/home/chris/Desktop/Lilly_Android/BandHeartRateApp/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/chris/.android/build-cache/84f85ecec57055ca2dfd11357e861e72bed8f6ec/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     }
 ]

@@ -1,4 +1,4 @@
-#Sun May 07 12:32:46 IST 2017
-base.0=/home/jireh/AndroidStudioProjects/MicrosoftBandSDKandSamplesforAndroid/BandHeartRateApp/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
+#Sat Jul 22 10:50:21 IST 2017
+base.0=/home/chris/Desktop/Lilly_Android/BandHeartRateApp/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
 renamed.0=classes.dex
-file.0=/home/jireh/AndroidStudioProjects/MicrosoftBandSDKandSamplesforAndroid/BandHeartRateApp/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex
+file.0=/home/chris/Desktop/Lilly_Android/BandHeartRateApp/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex

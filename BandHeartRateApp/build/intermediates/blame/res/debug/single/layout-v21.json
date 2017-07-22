@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/home/jireh/AndroidStudioProjects/MicrosoftBandSDKandSamplesforAndroid/BandHeartRateApp/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
-        "source": "/home/jireh/.android/build-cache/fdb0f250c5ca7c294a2fd860d0762dd9a8bb6b42/output/res/layout-v21/notification_template_icon_group.xml"
+        "merged": "/home/chris/Desktop/Lilly_Android/BandHeartRateApp/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/chris/.android/build-cache/84f85ecec57055ca2dfd11357e861e72bed8f6ec/output/res/layout-v21/notification_action.xml"
     },
     {
-        "merged": "/home/jireh/AndroidStudioProjects/MicrosoftBandSDKandSamplesforAndroid/BandHeartRateApp/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
-        "source": "/home/jireh/.android/build-cache/fdb0f250c5ca7c294a2fd860d0762dd9a8bb6b42/output/res/layout-v21/notification_template_custom_big.xml"
+        "merged": "/home/chris/Desktop/Lilly_Android/BandHeartRateApp/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/chris/.android/build-cache/84f85ecec57055ca2dfd11357e861e72bed8f6ec/output/res/layout-v21/notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/jireh/AndroidStudioProjects/MicrosoftBandSDKandSamplesforAndroid/BandHeartRateApp/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
-        "source": "/home/jireh/.android/build-cache/fdb0f250c5ca7c294a2fd860d0762dd9a8bb6b42/output/res/layout-v21/notification_action_tombstone.xml"
+        "merged": "/home/chris/Desktop/Lilly_Android/BandHeartRateApp/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/chris/.android/build-cache/84f85ecec57055ca2dfd11357e861e72bed8f6ec/output/res/layout-v21/notification_template_custom_big.xml"
     },
     {
-        "merged": "/home/jireh/AndroidStudioProjects/MicrosoftBandSDKandSamplesforAndroid/BandHeartRateApp/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
-        "source": "/home/jireh/.android/build-cache/fdb0f250c5ca7c294a2fd860d0762dd9a8bb6b42/output/res/layout-v21/notification_action.xml"
+        "merged": "/home/chris/Desktop/Lilly_Android/BandHeartRateApp/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/chris/.android/build-cache/84f85ecec57055ca2dfd11357e861e72bed8f6ec/output/res/layout-v21/notification_action_tombstone.xml"
     }
 ]

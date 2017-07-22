@@ -1,0 +1,44 @@
+{
+   "abstract" : "Plot graph using Gnuplot in Perl on the fly",
+   "author" : [
+      "Ka-Wai Mak"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "ExtUtils::MakeMaker version 6.57_05, CPAN::Meta::Converter version 2.150001",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Chart-Gnuplot",
+   "no_index" : {
+      "directory" : [
+         "t",
+         "inc"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Carp" : "1.04",
+            "File::Copy" : "2.08",
+            "File::Temp" : "0.14",
+            "Storable" : "2.15"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "version" : "0.23"
+}

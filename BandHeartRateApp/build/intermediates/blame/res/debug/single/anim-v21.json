@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/jireh/AndroidStudioProjects/MicrosoftBandSDKandSamplesforAndroid/BandHeartRateApp/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
-        "source": "/home/jireh/.android/build-cache/8d32ab529e9b74bbee7df3610f1dc1c54ae2ae72/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+        "merged": "/home/chris/Desktop/Lilly_Android/BandHeartRateApp/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/chris/.android/build-cache/2972ddf0a261acd0d252cc799e3568ae4b72474e/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "/home/jireh/AndroidStudioProjects/MicrosoftBandSDKandSamplesforAndroid/BandHeartRateApp/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
-        "source": "/home/jireh/.android/build-cache/8d32ab529e9b74bbee7df3610f1dc1c54ae2ae72/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+        "merged": "/home/chris/Desktop/Lilly_Android/BandHeartRateApp/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/chris/.android/build-cache/2972ddf0a261acd0d252cc799e3568ae4b72474e/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
     }
 ]

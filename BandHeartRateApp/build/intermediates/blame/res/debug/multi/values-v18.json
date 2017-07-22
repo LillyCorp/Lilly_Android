@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/jireh/AndroidStudioProjects/MicrosoftBandSDKandSamplesforAndroid/BandHeartRateApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+        "outputFile": "/home/chris/Desktop/Lilly_Android/BandHeartRateApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 99
                 },
                 "from": {
-                    "file": "/home/jireh/.android/build-cache/fdb0f250c5ca7c294a2fd860d0762dd9a8bb6b42/output/res/values-v18/values-v18.xml",
+                    "file": "/home/chris/.android/build-cache/84f85ecec57055ca2dfd11357e861e72bed8f6ec/output/res/values-v18/values-v18.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

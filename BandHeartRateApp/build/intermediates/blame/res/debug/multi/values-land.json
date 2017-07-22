@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/jireh/AndroidStudioProjects/MicrosoftBandSDKandSamplesforAndroid/BandHeartRateApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+        "outputFile": "/home/chris/Desktop/Lilly_Android/BandHeartRateApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 120
                 },
                 "from": {
-                    "file": "/home/jireh/.android/build-cache/fdb0f250c5ca7c294a2fd860d0762dd9a8bb6b42/output/res/values-land/values-land.xml",
+                    "file": "/home/chris/.android/build-cache/84f85ecec57055ca2dfd11357e861e72bed8f6ec/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "/home/jireh/.android/build-cache/fdb0f250c5ca7c294a2fd860d0762dd9a8bb6b42/output/res/values-land/values-land.xml",
+                    "file": "/home/chris/.android/build-cache/84f85ecec57055ca2dfd11357e861e72bed8f6ec/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 255
                 },
                 "from": {
-                    "file": "/home/jireh/.android/build-cache/fdb0f250c5ca7c294a2fd860d0762dd9a8bb6b42/output/res/values-land/values-land.xml",
+                    "file": "/home/chris/.android/build-cache/84f85ecec57055ca2dfd11357e861e72bed8f6ec/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 323
                 },
                 "from": {
-                    "file": "/home/jireh/.android/build-cache/fdb0f250c5ca7c294a2fd860d0762dd9a8bb6b42/output/res/values-land/values-land.xml",
+                    "file": "/home/chris/.android/build-cache/84f85ecec57055ca2dfd11357e861e72bed8f6ec/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -88,7 +88,7 @@
                     "endOffset": 505
                 },
                 "from": {
-                    "file": "/home/jireh/.android/build-cache/8d32ab529e9b74bbee7df3610f1dc1c54ae2ae72/output/res/values-land/values-land.xml",
+                    "file": "/home/chris/.android/build-cache/2972ddf0a261acd0d252cc799e3568ae4b72474e/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

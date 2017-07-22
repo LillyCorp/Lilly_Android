@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/home/jireh/AndroidStudioProjects/MicrosoftBandSDKandSamplesforAndroid/BandHeartRateApp/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/home/jireh/AndroidStudioProjects/MicrosoftBandSDKandSamplesforAndroid/BandHeartRateApp/build-types/debug/shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/home/chris/Desktop/Lilly_Android/BandHeartRateApp/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/home/chris/Desktop/Lilly_Android/BandHeartRateApp/build-types/debug/shaders"/></dataSet></merger>
